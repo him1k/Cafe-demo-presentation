@@ -1,4 +1,4 @@
-<img width="793" height="266" alt="состав блюда" src="https://github.com/user-attachments/assets/2e8becab-957a-40b9-b1b0-21055cdf0a6e" /># Cafe-demo-presentation
+# Cafe-demo-presentation
 Шапка<br>
 <img width="1083" height="172" alt="шапка" src="https://github.com/user-attachments/assets/9f97cc29-6aa9-4788-a667-17827d14ef56" /><br>
 Карусель<br>
